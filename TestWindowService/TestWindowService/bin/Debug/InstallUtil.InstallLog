@@ -1,0 +1,28 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe assembly's progress.
+The file is located at C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe assembly's progress.
+The file is located at C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe assembly's progress.
+The file is located at D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe assembly's progress.
+The file is located at D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

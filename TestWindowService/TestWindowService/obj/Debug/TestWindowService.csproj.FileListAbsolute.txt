@@ -1,0 +1,16 @@
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe.config
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.pdb
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csprojResolveAssemblyReference.cache
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.exe
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.pdb
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csproj.GenerateResource.Cache
+D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe.config
+D:\DemoProject\Windows service\TestWindowService\TestWindowService\obj\Debug\TestWindowService.exe
+D:\DemoProject\Windows service\TestWindowService\TestWindowService\obj\Debug\TestWindowService.pdb
+D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.pdb
+D:\DemoProject\Windows service\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csprojResolveAssemblyReference.cache
+D:\DemoProject\Windows service\TestWindowService\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+D:\DemoProject\Windows service\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csproj.GenerateResource.Cache

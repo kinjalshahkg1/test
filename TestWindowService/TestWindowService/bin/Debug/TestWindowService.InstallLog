@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\DemoProject\Windows service\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
